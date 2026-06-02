@@ -1,0 +1,15 @@
+{
+  "name": "Denabled",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "$className": "Folder",
+        "Denabled": {
+          "$path": "src/Denabled.luau"
+        }
+      }
+    }
+  }
+}
